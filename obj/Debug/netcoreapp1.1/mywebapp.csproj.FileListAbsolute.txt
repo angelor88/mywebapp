@@ -1,0 +1,10 @@
+C:\Users\Angelo\Desktop\mywebapp\bin\Debug\netcoreapp1.1\mywebapp.deps.json
+C:\Users\Angelo\Desktop\mywebapp\bin\Debug\netcoreapp1.1\mywebapp.runtimeconfig.json
+C:\Users\Angelo\Desktop\mywebapp\bin\Debug\netcoreapp1.1\mywebapp.runtimeconfig.dev.json
+C:\Users\Angelo\Desktop\mywebapp\bin\Debug\netcoreapp1.1\mywebapp.dll
+C:\Users\Angelo\Desktop\mywebapp\bin\Debug\netcoreapp1.1\mywebapp.pdb
+C:\Users\Angelo\Desktop\mywebapp\obj\Debug\netcoreapp1.1\mywebapp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\mywebapp\obj\Debug\netcoreapp1.1\mywebapp.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\mywebapp\obj\Debug\netcoreapp1.1\mywebapp.dll
+C:\Users\Angelo\Desktop\mywebapp\obj\Debug\netcoreapp1.1\mywebapp.pdb
+C:\Users\Angelo\Desktop\mywebapp\obj\Debug\netcoreapp1.1\mywebapp.AssemblyInfoInputs.cache
